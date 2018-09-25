@@ -1,0 +1,73 @@
+LOCUS       ECOAGPA                 1675 bp    DNA     linear   BCT 26-APR-1993
+DEFINITION  E.coli periplasmic acid glucose-1-phosphatase (agp) gene, complete
+            cds.
+ACCESSION   M33807
+VERSION     M33807.1
+KEYWORDS    glucose-1-phosphatase.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1675)
+  AUTHORS   Pradel,E., Marck,C. and Boquet,P.L.
+  TITLE     Nucleotide sequence and transcriptional analysis of the Escherichia
+            coli agp gene encoding periplasmic acid glucose-1-phosphatase
+  JOURNAL   J. Bacteriol. 172 (2), 802-807 (1990)
+   PUBMED   2153660
+COMMENT     Original source text: E.coli DNA, clone pEP1376.
+FEATURES             Location/Qualifiers
+     source          1..1675
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:562"
+     regulatory      155..160
+                     /regulatory_class="ribosome_binding_site"
+                     /note="ribosome binding site (put.); putative"
+     CDS             167..1408
+                     /note="glucose-1-phosphatase precursor (agp)"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA23426.1"
+                     /translation="MNKTLIAAAVAGIVLLASNAQAQTVPEGYQLQQVLMMSRHNLRA
+                     PLANNGSVLEQSTPNKWPEWDVPGGQLTTKGGVLEVYMGHYMREWLAEQGMVKSGECP
+                     PPYTVYAYANSLQRTVATAQFFITGAFPGCDIPVHHQEKMGTMDPTFNPVITDDSAAF
+                     SEQAVAAMEKELSKLQLTDSYQLLEKIVNYKDSPACKEKQQCSLVDGKNTFSAKYQQE
+                     PGVSGPLKVGNSLVDAFTLQYYEGFPMDQVAWGEIKSDQQWKVLSKLKNGYQDSLFTS
+                     PEVARNVAKPLVSYIDKALVTDRTSAPKITVLVGHDSNIASLLTALDFKPYQLHDQNE
+                     RTPIGGKIVFQRWHDSKANRDLMKIEYVYQSAEQLRNADALTLQAPAQRVTLELSGCP
+                     IDADGFCPMDKFDSVLNEAVK"
+     sig_peptide     167..232
+                     /note="glucose-1-phosphatase signal peptide"
+     mat_peptide     233..1405
+                     /product="glucose-1-phosphatase"
+ORIGIN      
+        1 gcgaggcagg ggctaatcag gcatagtttg cgtcaaacct tgcctgtttt tgaagatgta
+       61 tatagaaaaa caggcgttca acaagccatt ttgcgaacct gttcccggaa aaaagtcata
+      121 tttctgtcac actctttagt gattgataac aaaagaggtg ccaggaatga acaaaacgct
+      181 aatcgccgca gctgtggcag ggatagtttt actcgcttca aacgctcagg cacaaaccgt
+      241 accggaaggc tatcagctac agcaagtgct catgatgagc cgccataact tacgtgcgcc
+      301 gctggcgaac aatggcagtg tgctggagca gtcgacgccg aataaatggc cagaatggga
+      361 cgtccccggt gggcaactca ccaccaaagg tggcgtgctc gaagtgtata tgggccatta
+      421 catgcgtgaa tggctggcag agcaggggat ggtgaaatcg ggggaatgcc cgccgccgta
+      481 caccgtttat gcctatgcca atagtctgca acgtaccgtt gcgaccgcac agttctttat
+      541 taccggcgca ttcccggggt gtgatattcc tgtgcatcac caggaaaaaa tgggcactat
+      601 ggacccaacc tttaacccgg tgatcaccga tgattccgcc gcattcagtg aacaggcggt
+      661 ggcggcaatg gagaaagagc tcagcaaact ccagcttacc gacagctacc agctactgga
+      721 aaaaatcgtt aactataaag attcccctgc ctgtaaagag aaacaacagt gttcgctggt
+      781 ggatggcaaa aataccttta gcgccaagta tcaacaagaa ccaggtgttt ccgggccgct
+      841 gaaagtcggc aactcgctgg tagatgcgtt tactttgcaa tattacgaag gttttccgat
+      901 ggatcaggtg gcctggggag aaatcaaatc tgaccagcag tggaaggtgt tgtcgaagct
+      961 taaaaacggc taccaggaca gcctgtttac ctcaccggaa gtggcgcgca atgttgcgaa
+     1021 accgctggtc agttatatcg acaaagctct ggtcaccgat cgcaccagcg caccgaaaat
+     1081 tacagtgttg gttgggcacg actccaacat tgcctctctg ttaacggcgc tggatttcaa
+     1141 accgtatcag ttgcatgacc agaacgaacg cacgccgatt ggcggcaaaa tcgttttcca
+     1201 gcgttggcat gacagcaaag ccaatcgcga tttgatgaaa attgaatatg tgtatcagag
+     1261 tgcggaacag ttacgtaatg ccgatgcgtt aaccctgcag gcacctgcgc agcgtgtgac
+     1321 gctggaatta agcggttgcc cgatagacgc tgatggtttc tgcccgatgg ataagtttga
+     1381 tagcgtgttg aatgaagcgg tgaaataaca gaaaactccc ccgcgagaag cgggggagtc
+     1441 gctggttaaa cgtttttacg ttcgatggtc tgttcgcccc aaaaaagcga atctttatcg
+     1501 gtcttagcaa aggctttgac taacacttca tcactacctt cttcccaaat cttttccgcc
+     1561 attttttcgt cgtacccggc gacttcgaaa atggcctcgg ctatttccgg cgacgtattg
+     1621 cgcagagatg cccattcacc gacgtgatga gctttcgctt cttgagttgg catgc
+//
+

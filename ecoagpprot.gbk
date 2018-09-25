@@ -1,0 +1,44 @@
+LOCUS       SVF47503                 413 aa            linear   BCT 19-AUG-2018
+DEFINITION  glucose-1-phosphatase [Escherichia coli].
+ACCESSION   SVF47503
+VERSION     SVF47503.1
+DBLINK      BioProject: PRJEB8774
+            BioSample: SAMEA3472110
+DBSOURCE    embl accession UINN01000049.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Doyle,S.
+  CONSRTM   Pathogen Informatics
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUN-2018) WTSI, Pathogen Informatics, Wellcome Trust
+            Sanger Institute, CB10 1SA, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..413
+                     /organism="Escherichia coli"
+                     /strain="VREC0288"
+                     /db_xref="taxon:562"
+                     /note="contig: ERS784219SCcontig000049"
+     Protein         1..413
+                     /product="glucose-1-phosphatase"
+                     /EC_number="3.1.3.10"
+     CDS             1..413
+                     /gene="agp"
+                     /locus_tag="SAMEA3472110_05021"
+                     /coded_by="complement(UINN01000049.1:25269..26510)"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_006095393.1"
+                     /transl_table=11
+ORIGIN      
+        1 mnktliaatv agivllasna qaqtvpegyq lqqvlmmsrh nlraplanng svleqstpnk
+       61 wpewdvpggq lttkggvlev ymghymrewl aeqgmvksge cpppdtvyay anslqrtvat
+      121 aqffitgafp gcdipvhhqe kmgtmdptfn pvitddsaaf seqavaamek elgklqltds
+      181 yqllekivny kdspackekq qcslvdgknt fsakyqqepg vsgplkvgns lvdaftlqyy
+      241 egfpmdqvaw geiksdqqwk vlsklkngyq dslftspeva rnvakplvsy idkalvtdrt
+      301 sapkitvlvg hdsniasllt aldfkpyqlh dqnertpigg kivfqrwhds kanrdlmkie
+      361 yvyqsaeqlr nadaltlqap aqrvtlelsg cpidangfcp mdkfdsvlne avk
+//
+
