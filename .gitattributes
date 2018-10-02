@@ -1,0 +1,4 @@
+*.fastq filter=lfs diff=lfs merge=lfs -text
+*.tab filter=lfs diff=lfs merge=lfs -text
+*.sam filter=lfs diff=lfs merge=lfs -text
+*.bam filter=lfs diff=lfs merge=lfs -text
